@@ -1,4 +1,4 @@
-# qrcode
+# QRcode
 
 A new Flutter project.
 
